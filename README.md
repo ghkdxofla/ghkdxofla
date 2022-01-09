@@ -13,7 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+참고 페이지
+- https://shields.io/
 -->
-![Shield.io's Github issuing pr](https://img.shields.io/github/issues/ghkdxofla/survive)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdxofla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
+
+### Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdxofla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
+
+### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdxofla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
+
+### Baekjoon
+[![Solved.ac
+ghkdxofla](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdxofla)](https://solved.ac/ghkdxofla)   
