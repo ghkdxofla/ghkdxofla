@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdxofla&show_icons=true&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdxofla&layout=compact&theme=radical&card_width=285)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdxofla&layout=compact&theme=radical&card_width=287)](https://github.com/anuraghazra/github-readme-stats)   
 
 ### Baekjoon
 [![Solved.ac
