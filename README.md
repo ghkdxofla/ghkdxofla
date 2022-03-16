@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 ### Baekjoon
 [![Solved.ac
 ghkdxofla](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdxofla)](https://solved.ac/ghkdxofla)   
+
+### Leetcode
+[![LeetCode user ghkdxofla](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fghkdxofla&logo=leetcode&logoColor=yellow)](https://leetcode.com/ghkdxofla/)   
